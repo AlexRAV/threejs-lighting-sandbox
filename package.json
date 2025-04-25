@@ -1,0 +1,21 @@
+{
+  "name": "threejs-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox environment for testing and experimenting with Three.js lighting capabilities.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.176.0",
+    "draco3d": "^1.5.7",
+    "three": "^0.176.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.3"
+  }
+}
