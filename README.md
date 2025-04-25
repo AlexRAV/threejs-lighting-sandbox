@@ -2,6 +2,8 @@
 
 A sandbox environment for testing and experimenting with Three.js lighting capabilities.
 
+![Three.js Lighting Sandbox Preview](preview.png)
+
 ## Overview
 
 This project provides a simple interface for exploring various lighting techniques in Three.js. It allows you to:
